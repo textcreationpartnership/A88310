@@ -1,0 +1,750 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kingdoms divisions anatomized, together with a vindication of the Armies proceedings. By Franciscus Leinsula.</title>
+            <author>Lisle, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88310</idno>
+            <idno type="STC">Wing L2369</idno>
+            <idno type="STC">Thomason E545_25</idno>
+            <idno type="STC">ESTC R206071</idno>
+            <idno type="EEBO-CITATION">99865259</idno>
+            <idno type="PROQUEST">99865259</idno>
+            <idno type="VID">117498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117498)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E545[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kingdoms divisions anatomized, together with a vindication of the Armies proceedings. By Franciscus Leinsula.</title>
+                  <author>Lisle, Francis.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Clowes, for Hannah Allen, at the Crown in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Franciscus Leinsula = Francis Lisle.</note>
+                  <note>Annotation on Thomason copy: "March. 1st 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117498:1" rendition="simple:additions"/>
+            <p>THE KINGDOMS DIVISIONS <hi>ANATOMJZED,</hi> Together with a
+VINDICATION OF THE ARMIES PROCEEDINGS.</p>
+            <p>By <hi>Franciſcus Leinſula.</hi>
+            </p>
+            <q> 
+               <p>Shall there be evill in a City, and the Lord hath not done
+it.</p>
+               <bibl>Amos. 3.6.</bibl>
+            </q>
+            <q> 
+               <p>Heare O our God, for we are deſpiſed, and turn their Reproach
+upon their own head: They which builded on the wall, and they that hear
+burdens; every one, with one of his hands wrought in the work, And with the
+other hand held a weapon; for the builders every one, had his ſword guirded
+by his ſide, &amp;c.</p>
+               <bibl>Nehe. 4.4.17.18.</bibl>
+            </q>
+            <p>LONDON, Printed by <hi>John Clowes,</hi> for <hi>Hannah
+Allen,</hi> at the Crown in <hi>Popes-head Alley.</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117498:2"/>
+            <head>To the Right Honourable, <hi>John Bradſhaw,</hi> Lord
+Preſident of the High Court of Juſtice.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving heard an Honourable Report of you, bearing an Honourable
+Reſpect to you, And decerning your readines to imbrace and accept, and not
+ſlight; or much leſſe deſpiſe the day of ſmall things, <hi>Zach.
+4.10.</hi> hath moved me though unworthy to aſſume the boldneſſe to
+preſent your Honour with theſe few and rude lines; eſpecially,
+conſidering your Honours readineſſe, with others of Gods Worthies in
+Parliament, Ar<g ref="char:EOLhyphen"/>my, and high Court of Juſtice, to proſecute Gods work; And
+that with a ſpirit of freedom and courage, notwithſtanding the multitude of
+<hi>Renums</hi> and <hi>Shiniſhais, Tatnais,</hi> and <hi>Shether-boznais,
+Sanballats,</hi> and <hi>Tobi<g ref="char:EOLhyphen"/>ahs,</hi> with their Companions, who face in
+oppoſition, <hi>Ezra 4.9. 5.3. Neh. 4.1.3.</hi> and truly, my Lord, but face;
+for I really believe, if of themſelves, they make not an honourable Retreat,
+they will firſt or laſt be driven back with ſhame and diſgrace; Let the
+haters of the Lord flie before him, And let the Angels of the Lord purſue and
+chaſe them. Let the enemies of God and his people periſh: But let Chriſt
+and his Saints live and Reigne for e<g ref="char:EOLhyphen"/>ver, which is the deſires of him, who my
+Lord, deſires your happineſſe and preſervation with the reſt of his
+Saints, and deſires to be</p>
+            <closer>
+               <signed>Your Honours much obliged And moſt Humble Servant
+<hi>F. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117498:2"/>
+            <head>THE KINGDOMES DIVISIONS <hi>ANATOMYZED.</hi>
+            </head>
+            <argument>
+               <p>
+                  <seg rend="decorInit">I</seg>N Admiring, I cannot but Admire, at the divine Pro<g ref="char:EOLhyphen"/>vidence
+of the Almighty, which hath cauſed ſuch ſtrange and wonderfull Mutations
+and Alterations in this afflicted State and Kingdome; but ſurely, it is his
+good pleaſure hereby, to declare his <hi>Works,</hi> his ſtrange
+<hi>Works;</hi> and bring to paſſe his <hi>Acts.</hi> That ſo his
+<hi>glorious footſteps might appeare, both in wayes of judgement and mercy to
+his People.</hi> Pſalm. 101.1 <hi>&amp;</hi> 65.5.</p>
+            </argument>
+            <p>
+               <hi>SIR,</hi> In the Spring of the yeare, conſidering of the
+ſtrange and vi<g ref="char:EOLhyphen"/>olent Commotions and Inſurrections that were in the
+<hi>North</hi> and <hi>South,</hi> in the <hi>Eaſt</hi> and
+<hi>Weſterne</hi> parts of this Kingdome; I con<g ref="char:EOLhyphen"/>ceived, that a deluge of
+miſery would attend the Saints; apprehending that the Powers of Earth and
+Hell, would certainly be muſtered up a<g ref="char:EOLhyphen"/>gainſt them; <hi>But the Lord of
+Hoſts hath appeared for us, and the God of Armies hath been our refuge,</hi>
+Selah. <hi>And bleſſed for ever be Jehovah, who hath broken in peeces the
+horne of their ſtrength; for wherein his ene<g ref="char:EOLhyphen"/>mies have dealt proudly,
+himſelfe hath been above them; It is he that ſub<g ref="char:EOLhyphen"/>dues the enemies of his
+people, and overturneth the Horſe and his Rider: And reproveth Princes,</hi>
+(And why not <hi>Parliaments,</hi> if need be, or evill <hi>Members</hi>
+therin) <hi>for the ſakes of his Saints.</hi> I remember, though di<g ref="char:EOLhyphen"/>vers
+yeares ſince, An expreſſion of that exceeding Learned, Reverend, Holy,
+and Faithfull Teacher, Mr. <hi>John Cotton</hi> of <hi>Boſton,</hi> in
+<hi>New England,</hi> which was to this effect, <hi>viz.</hi> That God would
+poure his wrath upon the Court of <hi>England.</hi> As alſo, That Seats of
+Judicature would not <pb n="2" facs="tcp:117498:3"/> throw down <hi>Babylon.</hi> And I
+beleeve, much leſſe would they alone ex<g ref="char:EOLhyphen"/>alt Chriſt, and his Churches. But
+it muſt be done with violence, <hi>Revel.</hi> 18.21. And this day is his
+ſaying, and this Scripture fulfilled in our eares: It is Propheſied
+concerning Chriſt in his conqueſt, <hi>That he ſhall ſtricke through
+Kings, in the day of his wrath.</hi> And I beleeve it is not <hi>Eng<g ref="char:EOLhyphen"/>lands</hi>
+Soveraigne, whoſe Head ſhall alone be taken off and wounded; but the Heads
+of many Countries, <hi>Pſalm.</hi> 110.5.6. And truely, this honour have all
+the Saints, <hi>To bind their Kings in chaines, and their No<g ref="char:EOLhyphen"/>blos in fetters of
+Iron.</hi> And not onely to paſſe Sentence, but to execute upon them the
+Judgement written, <hi>Pſalm.</hi> 149. from the 6. <hi>verſ.</hi> to the
+laſt. And though, through the power and grace of the moſt High, Theſe
+Scriptures have had their accompliſhments in precedent Ages, yet in our dayes
+more eminently; and doubtleſſe will more and more in ſucceeding
+generations.</p>
+            <p>The great Queſtion at preſent amongſt Gods People, is,
+whether the Propheſie concerning the ſlaying of the Witneſſes be
+al<g ref="char:EOLhyphen"/>ready fully accompliſhed, according to the 11. of the <hi>Revel.</hi>
+7.8,9, and 10. or whether it remaine ſtill to be fulfilled; which, I
+confeſſe, is at preſent dubious; though, I beleeve, a few yeares more,
+will put it out of doubt; and yet it looks, at preſent, as if it were the
+time of the Saints prevailing, and ſo of the Churches deliverance, according
+to the 11. <hi>v.</hi> of the ſame <hi>Chapter;</hi> its true, for this three
+or foure yeares laſt paſt, I found that all ſorts of men, had, as it
+were, prepared Appetites to ſwallow up the Saints. And, doubtleſſe, had
+their power been accor<g ref="char:EOLhyphen"/>ding to their ſpirit, they would certainly have
+devoured, and eaten them up like bread; But now there is an appearance, as if a
+Spirit of life from God were entred into men. And great feare fallen upon them
+that ſee it, and a great Earthquake in our civill State, and earthly Powers;
+as alſo in the hearts of earthly men; and equivalent to the words of the
+Text. There ſeemes to be a tenth, if not ten parts of this great City fallen,
+I meane, in their ſpirits; how many ſhall be ſlaine, the Lord on<g ref="char:EOLhyphen"/>ly
+knowes; doubtleſſe, there is a remnant affrighted, and I wiſh they would
+give glory to God.</p>
+            <p>Againe, I finde this to be very true, that the Nations, and
+people, both <hi>Popiſh,</hi> and <hi>Presbyterian,</hi> are exceeding angry,
+they fume, foame, and ſnuffe for anger. Some fretting their hearts, and
+gnawing their tongues, for paine, and as if Hell were let looſe,
+blaſpheming the God of Hea<g ref="char:EOLhyphen"/>ven, being ſcorched with great heat, and filled
+with paines and ſores, but <pb n="3" facs="tcp:117498:3"/> repent not of their deeds.
+<hi>Revel.</hi> 11.18. <hi>the</hi> 16.10. <hi>and</hi> 11.</p>
+            <p>Moreover, I finde the ſpirits of the beſt Saints much
+refreſhed, and as it were, in ſome meaſure, through grace prepared, to
+ſing <hi>Halleiujah,</hi> ſaying, <hi>Bleſſed be the Name of our God,
+for the Kingdomes of this world, are become the Kingdomes of the Lord, and of
+his Chriſt;</hi> the which I cor<g ref="char:EOLhyphen"/>dially deſire, though my bloud, with
+others, ſhould be ſacrificed for it.</p>
+            <p>
+               <hi>Sir,</hi> Taking a view of this perplexed and afflictted
+Kingdom, I find in it as it were a threefold diviſion, or three kinds of men
+paſſing under a threefold denomination, <hi>viz. Independent, Presbyterian,
+Malignant.</hi> Though I doubt not but in Gods due time the purer ſort of
+<hi>Presbyte<g ref="char:EOLhyphen"/>rians</hi> will turn <hi>Independant,</hi> as the rotten and
+corrupt, if they durſt would turn <hi>Malignant,</hi> And indeed, I have as
+much hope, if not more, of divers <hi>Malignants</hi> then of them.</p>
+            <p>The firſt are <hi>Independants</hi> ſo called; the which if I
+miſtake not, is a word of deriſion caſt upon the pureſt ſort of
+profeſſors in the Kingdom. A people though ſmall and deſpiſed; yet
+ſundry of them through grace highly and divinely principled, acting to high
+and divine ends, fighting under Chriſts Banner, and maugre men and Devills;
+do zealouſly and eminently appear for Chriſt and his Church: amongſt whom
+I hum<g ref="char:EOLhyphen"/>bly conceive it were but requiſite to diſtinguiſh, <hi>viz.</hi>
+betwixt ſuch as are truly godly, and tenderly conſcientious; though
+differing from other godly and ſound men, in ſuch opinions as do neither
+prejudice faith nor a ſanctified courſe, and betwixt ſuch as are groſly
+opinionated, whoſe o<g ref="char:EOLhyphen"/>pinions do neceſſarily lead them into groſſe
+practices; who according to the apprehenſions of ſundry learned and godly
+men, are by no meanes to be tolerated, as having in them too much of the ſeed
+of the Serpent, and a ſerpentine deſgine, to undermine and overturn both
+the faith of a Chriſtian, and the foundation of true conſtituted
+Churches.</p>
+            <p>The ſecond are <hi>Presbyterians,</hi> ſo nominated, many of
+whom I eaſily believe to be very precious in Gods ſight, and ſuch whom I
+dare not but both love and honour, howbeit I much feare there be too many which
+paſſe under this denomination, who are too much inclined to malignan<g ref="char:EOLhyphen"/>cy or
+a connivance at it, as appeares by their extream unſeemly, and
+un<g ref="char:EOLhyphen"/>chriſtianly expreſſions. Some ſaying, they had rather be ſlaves
+under the <hi>Turks;</hi> others, they had rather the <hi>King,</hi> with his
+Army had pre<g ref="char:EOLhyphen"/>vailed, chuſing rather to be under the power of Popery and
+Prelacy, then Independency, as they call it: as if they ſhould ſay, they
+had rather <pb n="4" facs="tcp:117498:4"/> be under the power of the Devill and
+Antichriſt, then under the power of Chriſt and his Saints; Theſe, and the
+like, have my ſelf heard expreſt, and that by ſome who are deemed godly.
+Beſides the extream uncivill, and not to be expreſt Language: they breath
+forth againſt his Excellen<g ref="char:EOLhyphen"/>cy the Lord Gen. <hi>Fairfax,</hi> Lieutenant Gen.
+<hi>Cromwell,</hi> Commiſſary Gen. <hi>Ireton,</hi> with others of the
+gallant and godly Commanders of the Army amongſt the doggs, of whoſe flocks
+they are ſcarcely to be ac<g ref="char:EOLhyphen"/>compted. Now theſe things, under favour, to me
+argue high Malig<g ref="char:EOLhyphen"/>nancy; and ſuch things, which I dare ſay, ſome
+Malignants, through their Morality and Civility, would abhorre to expreſſe.
+Yet ſet me mo<g ref="char:EOLhyphen"/>deſtly expreſſe my ſelfe concerning theſe men; I
+conceive them to be ſuch, as deſire ſome a kind of Government alſo;
+though they chuſe not their Magiſtrates to be of the pureſt, nor their
+Government the ſtri<g ref="char:EOLhyphen"/>cteſt; and therefore they ſtand at large for a King
+and Parliament.</p>
+            <p>But before I paſſe this kinde, let me crave libertie to
+inſert a few words concerning them; I ſhould, under favour, conceive it but
+meet, That theſe men ſhould be as little tollerated, as groſſe
+<hi>Opinioniſts. Sir,</hi> my conſcience beares me witneſſe, that I
+intend not in the leaſt, any god<g ref="char:EOLhyphen"/>ly and innocent man, though a
+<hi>Preſbyterian;</hi> and I beleeve, which I hope, without offence, I may
+ſpeake; <hi>viz.</hi> That neither your ſelfe, the Army, High Court of
+Juſtice, or Parliament; would, or durſt touch any of Gods Annointed in this
+kind; or lay the leaſt of your fin<g ref="char:EOLhyphen"/>gers upon the leaſt of the Saints as
+Saints.</p>
+            <p>Nevertheleſſe, if any <hi>Presbyterian,</hi> or other, though
+poſſibly, other<g ref="char:EOLhyphen"/>wiſe godly; whether any <hi>Member</hi> impeached, or
+ſuch as have prea<g ref="char:EOLhyphen"/>ched; together with others amongſt them, who in their
+Prayers, prea<g ref="char:EOLhyphen"/>ings, Printings, Practiſes, private Diſcourſes, and
+conſultations, ſhall behave themſelves, more like rayling
+<hi>Rabſhachas,</hi> curſing <hi>Shemeis,</hi> ſchof<g ref="char:EOLhyphen"/>fing
+<hi>Iſhmaels,</hi> then ſweet and meek Chriſtians. I humbly conceive in
+this caſe, they may be looked at, as obſtructors and interruptors of the
+Kingdomes peace, both Civill and Eccleſiaſticall; and may ſo be
+pro<g ref="char:EOLhyphen"/>ceeded againſt, notwithſtanding their Devotion and Profeſſion. The
+devout <hi>Jewes</hi> perſecuted and ſtirr'd up the Raskallity of the
+people a<g ref="char:EOLhyphen"/>gainſt <hi>Paul,</hi> as ſome now would gladly doe againſt
+<hi>Peeters,</hi> ſetting all the City upon an uproare, <hi>Acts</hi> 17.5.
+And it is very well known, the <hi>Scribes</hi> and <hi>Phariſees,</hi>
+notwithſtanding their devotion and profeſſions, were Chriſts and his
+Diſciples chiefeſt and greateſt enemies.</p>
+            <p>There was a Booke lately Printed, ſubſcribed as I remember
+with a<g ref="char:EOLhyphen"/>bout <pb n="5" facs="tcp:117498:4"/> 47. <hi>Presbyterians</hi> hands; I ſeeing a
+godly and diſcret Gentleman reading therein, deſired to know how he
+approved of it? He anſwered, it was a Bull. Now I well remember, that many
+years ſince I had heard of a popiſh Bull, but to live to ſee a
+<hi>Presbyterian</hi> Bull, it could not but ſeem exceeding ſtrange to me,
+as being ſuch a Beaſt as I think the world it ſelf never heard of untill
+now; And truly to me, it adminiſters matter of ſad<g ref="char:EOLhyphen"/>nes and lamentation,
+that learned and godly <hi>Presbyterians,</hi> ſhould act the parts of
+ungodly and popiſh <hi>Prelats.</hi>
+            </p>
+            <p>Object. 1. <hi>But they ſay, in ſo doing they diſcharge
+their conſciences, and thinke they do God and their Countreymen good
+ſervice.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> So did <hi>Paul,</hi> whilſt being
+<hi>Saul</hi> was little better then ſtarke ſta<g ref="char:EOLhyphen"/>ring mad, in perſecuting
+the Saints; and yet did nothing but what in conſcience, he then verily
+thought he ought to have done. <hi>Acts</hi> 26.9.10.11. And I cordially
+wiſh, they would be pleaſed ſeriouſly to conſi<g ref="char:EOLhyphen"/>der of it; for truly
+it ſeemes to me, as if there were a viall of contempt from heaven powred upon
+the ſpirit, that too frequently breaths from theſe men, though themſelves
+may otherwiſe in the roote, be ſincere and godly.</p>
+            <p>Alas their very Religion, I mean, of the
+<hi>Presbyterianiſme,</hi> being a poore <hi>Scottiſh</hi> and humane
+inſtitution, received but a humane grant for about three years; never
+proſpered from the firſt and I doubt not, but it will be blaſted at the
+laſt, and no marvell; for it is to be feared their <hi>Alpha</hi> and
+<hi>O<g ref="char:EOLhyphen"/>mega,</hi> was not <hi>Jehovah,</hi> but themſelves; and that which had
+not its riſe and foundation, before all time, muſt needs in time
+periſh.</p>
+            <p>But take a true conſtituted <hi>Presbyter,</hi> and the God of
+all grace for<g ref="char:EOLhyphen"/>bid, that either my ſelf, or any Profeſſing the fear of
+God, ſhould have the leaſt ryſing of heart againſt it.</p>
+            <p>I could with all my heart deſire that all the true
+Congregational Chur<g ref="char:EOLhyphen"/>ches, both in City and Kingdom were not ſo defective in
+this reſpect; but that they were more and more ſtudious and diligent, to
+obtaine and eſtabliſh a full and compleate <hi>Presbytery,</hi> in all
+their ſeverall Churches; that ſo all the Ordinances of Chriſt, might be
+diſpenced with more Ma<g ref="char:EOLhyphen"/>jeſty and authority, and the members of Chriſt
+that come from forragn parts the more refreſhed, whilſt they behold the
+Churches of the Saints walking in the compleat Order of the Goſpel.</p>
+            <p>Object. 2. <hi>But further, ſome ſay, that the Army, and I
+beleive they meane this Parliament alſo be none of their parents, nor
+themſelves their chil<g ref="char:EOLhyphen"/>dren?</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:117498:5"/>
+               <hi>Anſw.</hi> Then both Parliament and Army
+hath leſſe to care for, and if they were not the more mercifull ſhould
+caſt them out, both of their proviſion and protection; and proceed
+againſt them as Rebells. The God of <hi>Iſrael</hi> reſpects, neither
+accepts any man: as he is <hi>Scotch</hi> or <hi>Engliſh;</hi> but in his
+ſonne, as he is a man fearing God, and working righteouſnes. <hi>Acts</hi>
+10.34.35. Nor doth he reject any man, becauſe he is <hi>Spaniſh, Portugal,
+Grecian</hi> or <hi>Ethiopian,</hi> but as he is an enemy to the life of God
+and good<g ref="char:EOLhyphen"/>nes. <hi>Rom.</hi> 2.8. Now if <hi>Engliſh</hi> men be ſuch as
+their ſpeech bewrayeth them, and agrees thereto, why then the fathers and
+Judges of <hi>Iſrael</hi> and <hi>England,</hi> are to be like God.</p>
+            <p>But what if it appear, that thoſe that are denyed, be proved to
+be the parents of the Kingdom, and they their children, as I beleive it will;
+For firſt, it hath been often prayed for, many times fought for, and twice
+procured by conqueſt; and bleſſed be God for ſuch parents. And plaine
+it is, though divers <hi>Presbyterians</hi> will not acknowledge it, that it
+hath pleaſed God, to be-truſt the ſole power of the Kingdom in their
+hands; and in whoſe hands, of ſuch gracious ſpirits, I deſire it might
+for ever be preſerved; And if theſe children will not be warned, then may
+the parents, both by the Law of God and nature, give them ſevere
+chaſtiſ<g ref="char:EOLhyphen"/>ement and correction.</p>
+            <p>Object. 3. <hi>But ſay they, the Army have broken down the
+hedge, taken away godly Magiſtrates and left only ſuch men, as are of their
+own minds and opi<g ref="char:EOLhyphen"/>nions?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, they have not broaken down the hedge,
+but pluckt up the crooked and rotten ſtakes that ſo the hedge might ſtand
+more even and firme.</p>
+            <p>And if it ſhould be granted, that ſome of the impeached
+members were godly, yet were they not impeached for their godlynes in the
+leaſt; but wherin they were both ungodly and unrighteous. It's true,
+Magiſtrates are called Gods, being ordained of God to act according to God;
+And in ſo doing, are to be honoured and obeyed of all men. <hi>Rom.</hi> 13.
+from tee 1. to the 6. the 1 <hi>Pet.</hi> 13 and 14. But wherein they act like
+devills, they ceaſe to be Gods, and therein are not to be regarded.</p>
+            <p>And wherein they ſay, <hi>the Armie have onely paſſed by
+ſuch <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their own
+opinions,</hi> is as groſſe a miſtake as the other; For there are as
+ſound and godly remaining in the houſe, and that <hi>Presbyterians</hi>
+alſo if not farre better then any that were impeached; Nor did they in the
+leaſt intend, either <hi>Presbyterian</hi> or <hi>Independent,</hi> as
+ſuch; but as they were men <pb n="7" facs="tcp:117498:5"/> acting againſt the glory of
+God, and the good of the Kingdom; where<g ref="char:EOLhyphen"/>in it plainly appeares, the
+<hi>Presbyterian</hi> party were moſt to blame, being like the adverſaries
+of <hi>Judah</hi> and <hi>Benjamin,</hi> mentioned in the 4 of <hi>Ezra.</hi>
+the 15. who in pretending to build, intended to undermine the very
+foundation.</p>
+            <p>Object. 4. <hi>But ſay they again, The Army acted out of their
+Sphear?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, that alſo is a miſtake. Their
+Commiſſions run full to ſubdue the Common enemy; and if I may ſpeak it
+without offence, in caſe the whole Parliament had proved ſuch: as
+bleſſed be God they have not, and I hope never will; but if they had, why a
+Parliament ſhould be ſuffered to ruin a Kingdom more then a Prince, I know
+no reaſon at all, eſpecially when God hath given a Kingdom, power to
+prevent it.</p>
+            <p>Moreover, this Army hath not onely been barely permitted, but in
+an eſpeciall manner bleſſed by God; And whatſoever mens ends were in
+rayſing of them, doubtleſſe Gods ends were, as to revenge the quarrell of
+his Covenant and ſubdue his enemies: ſo to redeeme his own glory, and his
+peoples liberties, and priviledges, out of the hands of their op<g ref="char:EOLhyphen"/>preſſors.
+And thats the work that this Parliament and Army are to at<g ref="char:EOLhyphen"/>tend, maugre men and
+devills in the proſecution thereof.</p>
+            <p>Obiect. 5. <hi>But they again ſay, that this Army uſeth
+violence, but violence and the ſword will never rule this Kingdom?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, when God comes to overturn
+<hi>Babylon,</hi> and to turne Nations topſie turvie, and upſide down; then
+violence is uſed, not only by Gods bare permiſſion; but by his ſpeciall
+ordination and inſtitution. <hi>Rev.</hi> 18.21. And how theſe great works
+of God ſhould be done without violence, no man can imagine.</p>
+            <p>And as for the ſword, it hath been of ancient and ſingular
+uſe, both in Civills and Spiritualls, and that amongſt the beſt of
+Saints, witnes <hi>Abra<g ref="char:EOLhyphen"/>ham, Gen.</hi> 14.14.15.16. and <hi>Nehemiah, Neh.</hi>
+the 4. from the 13. to the end. And the truth is, there is an abſolute
+neceſſity of a ſword; for Na<g ref="char:EOLhyphen"/>tions would never yet be ruled without it:
+And there are two ſwords eſpecially which hath govern'd the world,
+<hi>viz.</hi> The ſword of Satan and Antichriſt: and the ſword of
+Chriſt and his Saints. Now under the pow<g ref="char:EOLhyphen"/>er of the firſt ſword the
+nations have lyen a long time; But under the power of the ſecond the Nations
+cannot indure, though they muſt nei<g ref="char:EOLhyphen"/>ther will nor chuſe<g ref="char:punc">▪</g> 
+               <hi>Rev.</hi>
+11.7. the 12.7. the 17.14. the 19. from the 13. to the end. Chriſt now hath
+put the ſword into the hands of his Saints, and there he will preſerve and
+maintaine it, till it be ſheath'd in <pb n="8" facs="tcp:117498:6"/> the bowells of
+Antichriſt; I mean the harlot of <hi>Rome,</hi> that Beaſt together with
+the falſe prophet the Pope, <hi>Rev.</hi> 19.20. And after him the
+<hi>Turke</hi> alſo. And if it ſhould ſo fall out, that another ſtorme
+ſhould fall upon Gods people, which the Lord prevent; yet theſe clouds
+would ſuddenly be diſperſt, and then the ſword will certainly reſt in
+the hands of Chriſt &amp; his Saints, untill all their enemies be ſubdued;
+And to this ſword the Nations, will they, nill they, muſt both buckle and
+bow.</p>
+            <p>The Lord Jeſus will rule till his enemies be made his
+foot-ſtoole, and for the Saints, let them rejoyce in him that made them; Let
+the children of Sion be joyfull in their King. Let the high praiſes of God be
+in their mouths, and a two edged ſword in their hands, to execute vengeance
+upon the Heathen: and puniſhments upon the people. To bind their Kings with
+chaines, and their Nobles with fetters of Iron. To execute upon them the
+judgment written, <hi>Pſa.</hi> 149. This honour have all his Saints. And the
+ſword of the Saints, is put together with the ſword of the Lord; as the
+warres of the Saints is called the Lords warres. <hi>Num.</hi> 21.14.</p>
+            <p>Object. 6. <hi>The Army did well whilſt they oppoſed Lyons,
+Tygers, Wolves, &amp;c. but now they ſtrike, and catch at ſheep
+alſo?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It's true, they did before oppoſe Wolves; but
+they do not now ſtrike at ſheep: but at Wolves in Sheeps cloathing; a black
+Devill is more ugley to look upon, but a white Devill is as deſtructive; when
+Satan transformed himſelf into an Angell of light he prejudiced the ſoule
+as much as as if he appeared in his own colours. <hi>Luke</hi> 16.27. to the
+end.</p>
+            <p>Object. 7. <hi>There are a godly and wiſe people both in
+new</hi> England, <hi>and ſomtimes come hither; but they approve not of
+theſe proceedings but are ene<g ref="char:EOLhyphen"/>mies thereunto?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, the firſt part is true, but not the
+latter, It's true there is here and there a Raven come over, who finding
+garbiſh here to feed upon, though they have been thither called have not
+returned; and it may well be, that thoſe have rather ſtrengthned the hands
+of pro<g ref="char:EOLhyphen"/>phane Malignants and formall <hi>Presbyterians,</hi> then of the people
+of God; But bleſſed be God there have been ſundry Doves come over, ſome
+of whom have returned with Olive branches in their mouths: And others remaining
+in Parliament, Army, City, and elſe where; who have Dove like behaved
+themſelves, and have been of ſpeciall uſe ſince hither they came,
+<hi>viz.</hi> Sir <hi>Henry <g ref="char:V">Ʋ</g>aine,</hi> Mr. <hi>Phenix,</hi> Col.
+<hi>Humphrey,</hi> Mr. <hi>Wi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> 
+               <pb n="9" facs="tcp:117498:6"/> Mr. <hi>Peters,</hi> Mr. <hi>Richard
+Huchinſon, Janice. &amp;c.</hi> Whom I hope will ex<g ref="char:EOLhyphen"/>cuſe me for mentioning
+of them; And I doubt not, but by Gods grace and aſſiſtance, will prove
+bleſſings to the Kingdom whiles here they remaine.</p>
+            <p>And as for <hi>New-England</hi> it ſelf, though too many
+Legaliſts amongſt them, yet to my knowledge there are divers, who
+bleſſed be God are ex<g ref="char:EOLhyphen"/>ceeding wiſe &amp; ſpirituall; and ſome of
+theſe divers years ſince, have often prophecied of theſe times,
+frequently and fervently prayed for them, and I doubt not but will bleſſe
+God alſo when they heare of the ſuccesfull victories God hath given to his
+people; all which plainly argues their harmony and congruity, and not their
+diſapprovement and enmity.</p>
+            <p>Nor will I affirme leaſt I ſhould miſtake, what I have heard
+that emi<g ref="char:EOLhyphen"/>nently learned and pious teacher Mr. <hi>John Cotten</hi>
+expreſſe; But this I remember, though divers years ſince, that as he
+ſaid God would bring a ſword upon <hi>England,</hi> and certainly powre his
+wrath upon the Court of <hi>England,</hi> which things are eminently come to
+paſſe: So he likewiſe hath prophecied of a ſword that would fall upon
+<hi>Scotland,</hi> I pray God the miniſters of that Kingdom would be no
+cauſe of it; And though I judge not Mr. <hi>Cotten</hi> to be infallable, yet
+in my obſervation things have gene<g ref="char:EOLhyphen"/>rally ſucceeded according to the
+Counſell of God declared by him. And its much deſired, did the honourable
+Parliament ſee it ſo good, he might be ſent for, it would be looked at,
+both by <hi>Presbyterian</hi> and <hi>Independent,</hi> as an extraordinary
+advantage and bleſſing to the Kingdom. But what if all <hi>New-England</hi>
+wanted light, to ſee into the equity and neceſſity of their proceedings,
+doth that upon neceſſity argue the illegality there<g ref="char:EOLhyphen"/>of? they are not only
+to walk up to the light of <hi>New-England,</hi> (though that light doth as
+farre exceed the <hi>Presbyterian</hi> light in <hi>Scotland,</hi> as theirs
+doth the Popiſh) but to the light of the new <hi>Jeruſalem,</hi> which is
+accor<g ref="char:EOLhyphen"/>ding to the word of God, and the firſt Article of the Covenant.</p>
+            <p>Object. 8. <hi>The great and grand objection is, That this
+Parliament and Army, is for a Tolleration and Liberty of Conſcience, and that
+will undoe all.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwer, firſt by the way, there be three
+things which ſundry eminent Chriſtians, could never to this day well
+digeſt, <hi>viz.</hi> Firſt, that re<g ref="char:EOLhyphen"/>proachfull word <hi>Independent,</hi>
+caſt upon the pureſt Saints, The truth is they are dependant, depending
+upon the Lord Jeſus for all their Lawes, Ordinances, Statutes, and
+Inſtitutions. And whilſt they walk according to God therein, they are a
+Non-ſuch in the world; and the <hi>Scotch</hi> ene<g ref="char:EOLhyphen"/>mies, <pb n="10" facs="tcp:117498:7"/>
+or any other in this caſe, had better eate fire
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>The Second is the Covenant, which was ever feared, would proves
+ſhare to the Saints and Kingdom.</p>
+            <p>The third is a tolleration, and Liberty of Conſcience, which I
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, be<g ref="char:EOLhyphen"/>cauſe of their
+affinity.</p>
+            <p>Now for to deſire a Tolleration of any thing that is corrupt,
+whether in opinion, or practice: ſeemes under favour, to be but a corrupt
+deſire; And to deſire a Tolleration of the Truth, or of Gods pure
+Worſhip<g ref="char:punc">▪</g> ſeems to reflect diſhonour upon Chriſt; For the Truth
+ſhould be prac<g ref="char:EOLhyphen"/>tiſed, and God purely worſhiped, in deſpight of all
+gain-ſayers and op<g ref="char:EOLhyphen"/>poſers, whether men or Divells. I hope I need not
+deſire my boldneſſe to be excuſed, it is for Chriſt.</p>
+            <p>And as for Liberty of Conſcience, the tearm it ſelf ſeems
+not to be ac<g ref="char:EOLhyphen"/>cording to the pattern of wholſome words; but if it may
+paſſe, then may it admit of a double conſtruction. <hi>viz.</hi>
+            </p>
+            <p>Firſt, Liberty of Conſcience to ſinne, which implyes rather
+a captivity then Liberty, for men to profeſſe and practice what they
+liſt. If this be deſired, and granted: it is that which God, and all that
+are born of him, abhort, and this indeed would undo all. But their is a Liberty
+of Con<g ref="char:EOLhyphen"/>ſcience in pure worſhiping of God, and keeping cloſe to his Lawes
+and Truth; and the more ſtrictly the conſcience is bound in this caſe,
+the more by far is it's liberty and inlargment, <hi>Iames</hi> 1.25. And this
+is the Li<g ref="char:EOLhyphen"/>berty that I hope, and am confident the Parliament and divers of the
+Ar<g ref="char:EOLhyphen"/>my ſtands for, that ſo the godly and unimbittered <hi>Presbyterian,</hi>
+with the ſincere and ſound hearted <hi>Independant,</hi> might purely
+Worſhip and w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with their God,
+without perſecution or moleſtation; and this Liberty will not undo and
+deſtroy, but reſtore and preſerve all. Ah when will theſe dayes be!
+Haſten the time O God, wherein the holy people of God howſoever called or
+diſtinguiſhed, may unanimouſly meete to<g ref="char:EOLhyphen"/>gether, ſweetly and
+harmoniouſly to imbrace each other.</p>
+            <p>Object. 9. <hi>Their be ſundry other Objections which ſcarce
+deſerve the men<g ref="char:EOLhyphen"/>tioning,</hi> viz. <hi>That the Army hath many wicked men,
+ſundry Jeſuits, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their
+astions aime at themſelves?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That there are too many wicked men in the Army I
+feare is too true, and were it poſſible, I could wiſh there were none;
+but that the<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is ſaid to be ſo
+many Jeſuits, I beleive it not; but if both be true, it doth no more argue
+the Armies diſhoneſty and illegallity, then the being of ſtone in a
+Chriſtian mans heart, argues his non-ſincerity; and are as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <pb n="11" facs="tcp:117498:7"/> tollerated
+by the godly Pa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y in the Army; as
+Drunkards and Adulte<g ref="char:EOLhyphen"/>rers are in <hi>Presbyterian</hi> Congregations; and as
+for their aiming at themſelves in their Actions, I Anſwer, Firſt, their
+Actions face to<g ref="char:EOLhyphen"/>wards a generall good, and we are not to become Judgers of
+evill thoughts; nor to receive evil Jealouſies where there is contrary
+appea<g ref="char:EOLhyphen"/>rances; but it rather argues too much ſelfe, and iniquity in our
+ſelves, that we would not have theſe who are Inſtruments of a common and
+generall good, ſo much as to have any ſhare therein, who indeed de<g ref="char:EOLhyphen"/>ſerve
+the beſt; and whoſe particular good, muſt upon neceſſity be in<g ref="char:EOLhyphen"/>volved
+in the generall.</p>
+            <p>Now then, I doe by no meanes beleeve its lawfull to raiſe a new
+War; or riſe in Rebellion againſt this Parliament and Army, Though ſome
+<hi>Presbyterians</hi> Prayers, Preachings, Printings, practiſes, tend
+thereto.</p>
+            <p>
+               <hi>Anſw.</hi> The ſword hath already divided betwixt the
+Independent and Malignant, and if I know my heart could freely ſacrifice my
+life, it might proceed no further: But if it muſt likewiſe divide betwixt
+the Presbyteri<g ref="char:EOLhyphen"/>an and Independent, the good will of God be done. As I have but
+one life, had I ten times ten thouſand, and as many ſoules, by the help of
+Chriſt I ſhould freely adventure them all in the Cauſe; as being
+confi<g ref="char:EOLhyphen"/>dent the Independent in his Cauſe, will firſt or laſt prevaile,
+(and never fall more;) for I find in the ſounding of the ſeventh Angel,
+that there were great voyces in Heaven, ſaying, the Kingdoms of this world
+are become the Kingdoms of the Lord, and of his Chriſt, and he ſhall reigne
+for ever and ever, <hi>Rev.</hi> 11.15. which is likely to have part of its
+accom<g ref="char:EOLhyphen"/>pliſhment in the next prevailing Independent Battle, if not before:
+which I looke at, as the battles which were fought in Heaven, by
+<hi>Micha<g ref="char:EOLhyphen"/>el</hi> and his Angels, with the Dragon and his; but the latter
+prevailed not, neither was their place found any more. <hi>Rev.</hi> 12.7,8.
+But this Warre ends not till the Church of <hi>Roome,</hi> the beaſt, with
+the falſe Prophet, the Pope: together, with their Confederates, be taken and
+ſlaine. <hi>Revel.</hi> 19. from 13. to the end.</p>
+            <p>Nevertheles, <hi>Sir,</hi> for as much as it is not improbable,
+but that freſh Tu<g ref="char:EOLhyphen"/>mults and Inſurrections may againe break forth. Let me
+humbly &amp; ear<g ref="char:EOLhyphen"/>neſtly requeſt you to ſtirre up both Parl. and Army to
+uſe all good meanes to prevent, a Serpent is with more facility cruſht in
+the ſhell, then after breaking forth; witneſs <hi>Kent, Colcheſter,</hi>
+&amp; the <hi>Scots;</hi> together with which furious Malignant, was ſubtilty
+and ſecretly involved; A moſt dangerous and fiery <hi>Presbyterian</hi>
+Serpent; And Serpents in <hi>May</hi> 
+               <pb n="12" facs="tcp:117498:8"/> will begin to looke
+forth. <hi>Sir,</hi> I queſtion not your wiſdomes in<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g with theſe, I neither doe, nor dare preſcribe a
+way themſelves <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concerning
+<hi>Independants</hi> or <hi>Opinioniſts,</hi> as they call them, would
+gladly have had the Parliament to have writ after <hi>New Englands</hi> Copy;
+which if they ſhould, then would theſe men be baniſh'd the Kingdome, for
+there was Mr. <hi>Wheelewright,</hi> A man approved for piety, integrity,
+inno<g ref="char:EOLhyphen"/>cency, and humulity, and yet baniſh'd <hi>New England,</hi> being farre
+leſſe guilty then theſe men, if at all; which in conſcience, I neither
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, nor would have mentioned,
+ſave that it is ſo well known; and I hope, they would not doe the like
+againe: And though I have many things to commend <hi>New England</hi> for, as
+apprehending them to be the beſt go<g ref="char:EOLhyphen"/>vern'd people, and to have the beſt
+government both of Civill and Church State, that to my knowledge is extant in
+the world; yet in this I commend them not, for truth ſhould not ſuffer with
+error and falſehood, nor the innocent with the guilty: which things I humbly
+referre to the honourable Magiſtrats wiſdome, and diſcretion.</p>
+            <p>The third, and laſt ſort, are Malignants, ſo called, divers
+of whom, I doubt not, have been Civilly and Morrally educated; and ſundry of
+whom it is to be hoped, may pertaine to the election of grace.</p>
+            <p>Yet if without offence, I may expreſſe my ſelfe concerning
+ſome of this kind; which I deſire to doe with compaſſion, as alſo
+with a deſire of their Converſion, if God ſo pleaſe<g ref="char:punc">▪</g> Then I much
+feare that too ma<g ref="char:EOLhyphen"/>ny of this kind may be ſtrongly ſuſpected, to be the
+very ſonnes of <hi>Be<g ref="char:EOLhyphen"/>liall,</hi> and of <hi>Abaddonitiſh</hi> and
+deſtructive Spirits, directly oppoſite to both the other; eſpecially, to
+the firſt mentioned, that inſtead of be<g ref="char:EOLhyphen"/>ing divinely, are diabolically
+principled: acting to their own ends, and lights; And inſtead of fighting
+under Chriſts banner, and appearing for Chriſt, and his Church, doe
+directly fight under the Banner of Sa<g ref="char:EOLhyphen"/>tan, and plainely ſtand up for the
+Devill and Antichriſt.</p>
+            <p>There are three things which diſturbe the Earth, yea foure, why
+it can<g ref="char:EOLhyphen"/>not be quiet; <hi>viz.</hi> The ſuperſtitious and Idolatrous
+<hi>Bapiſt,</hi> The groſſe and profane <hi>Malignant,</hi> The carnall
+and formall <hi>Presbyterian,</hi> And the blaſphemious <hi>Heretique.
+SIR,</hi> its not improbable, but that I ſhall paſſe under many
+Cenſures, for what I have here expreſt, but I bleſſe God, I weigh not
+mans day; as having borne witneſſe to the truth, and againſt the
+contrary; and that without prejudice or partia<g ref="char:EOLhyphen"/>litie to any as in Gods
+ſight.</p>
+            <p>Now from the Generation of ſuperſtitious Papiſts, and
+prophane Ma<g ref="char:EOLhyphen"/>lignants, <pb n="13" facs="tcp:117498:8"/> of fiery Presbyterians, and
+blaſphemous <hi>Hereticks.</hi> The Lord de<g ref="char:EOLhyphen"/>liver <hi>Zion,</hi> as I believe
+he will; and will alſo daſh in peeces all earthly Mo<g ref="char:EOLhyphen"/>narchs &amp; powers,
+that do oppoſe himſelf and Saints; And in his due time, will doubtleſs
+reign throughout the Kingdoms of the world. I mean not perſonally, for I by
+no meanes apprehend that, though I highly honour ſome that are thought ſo
+to conceive; but powerfully and ſpiritually in the hearts and lives of his
+Saints, from one Generation to another, <hi>Rev.</hi> 20.4.6. Againſt whom,
+if your ſelf, the Army, or Parliament ſhould act, againſt whom you would
+implicitly act; if you ſhould not as much as in you lies, go through with
+that good and glorious work which the Lord hath now betruſted you with; yea,
+doubtleſſe, though it be againſt nati<g ref="char:EOLhyphen"/>onall Lawes, having a word of God
+to bear you out, <hi>Eſther</hi> 4.16. 2 of <hi>Kings</hi> 14.19. yea though
+you carry it all along by violence, <hi>Ezra</hi> 4.3. 5.2. <hi>Nehe.</hi>
+4.13.14. againſt whom I ſay, if you ſhould act, then doubtleſſe would
+the God of <hi>Izrael</hi> blaſt you, and your proceedings; But on the
+contrary, notwithſtanding the uncharitable thoughts, jealouſies, and
+ap<g ref="char:EOLhyphen"/>prehenſions; which others have of you, in caſe you act: As verily, I
+hope, through grace many of you do. <hi>viz.</hi>
+            </p>
+            <p>For the glory of Chriſt, the proſperity of Zion, and publicke
+Inte<g ref="char:EOLhyphen"/>reſts, in which doing, you expreſſe your faithfulneſſe to God,
+to the Saints, to the Kingdomes, and alſo to the Covenant. And cauſe the
+Ci<g ref="char:EOLhyphen"/>tie of <hi>Shuſhan</hi> to rejoyce and be glad, <hi>Ester</hi> 8.15. In
+which doing, you will aſſuredly finde a bleſſing from the father of
+bleſſings; and give the Generations to come cauſe alſo to call you
+bleſſed; which is the deſire of him, who with Saints in ſincerity,
+bleſſes God for yours, the Armies, and Parliaments preſent activitie; And
+deſires to be in reallity, a Servant to the Lord, and his People.</p>
+            <closer>
+               <signed>F. L.</signed> 
+               <dateline>
+                  <date>
+                     <hi>Februarie</hi> 21.
+1648-49</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Theodore Jennings.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
